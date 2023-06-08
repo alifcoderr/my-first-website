@@ -6,9 +6,9 @@ h1{
   font-size: 50px;
 }
 .color{
-  color: orangered;
+  color: orange;
 }
-section{
+.flexi-container{
   display: flex;
   margin-bottom: 200px;
 }
