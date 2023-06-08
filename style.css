@@ -5,6 +5,9 @@ body{
 h1{
   font-size: 50px;
 }
+h2{
+  font-size: 40px;
+}
 .color{
   color: orange;
 }
@@ -27,6 +30,24 @@ h1{
   color: white;
   font-weight: 700;
   border-radius: 7px;
+}
+.developer{
+  box-shadow: 10px 10px 40px gray;
+  width: 40%;
+border-radius: 10px;
+  padding-left: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+#level{
+border-left: 7px solid blue;
+}
+#levelup{
+  border-left: 7px solid brown;
+}
+footer p{
+  text-align: center;
 }
 
 
